@@ -1,0 +1,12 @@
+swagger:
+  title: SpringBoot学习
+  description: SpringBoot描述
+  version: 1.0.0
+  name: Qin
+  url: http://Qin
+  email: qin@qin.com
+
+server:
+  port: 8082
+  servlet:
+#    context-path: /prod
